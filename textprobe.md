@@ -4,3 +4,7 @@
 - machen
 ### Das folgende ist der Link zur Google Website
 [google](http://www.google.com)
+
+```
+console.log("Hallo");
+```
