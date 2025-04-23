@@ -19,7 +19,7 @@ Ich bin Webentwickler aus Deutschland 🇩🇪 mit Fokus auf moderne Frontend-Te
 
 | Projekt            | Beschreibung                                  | Technologien            |
 |--------------------|-----------------------------------------------|--------------------------|
-| `nextjs-react-starter` | Boilerplate für schnelle Next.js-Projekte        | Next.js, React, CSS      |
+| `https://github.com/ManuelBertels/Account-balance` | Verwaltet Ein&Ausgaben       | Next.js, React, CSS      |
 | `portfolio-site`      | Persönliche Portfolio-Seite mit Projekt-Galerie | Next.js, CSS, Markdown   |
 
 ---
