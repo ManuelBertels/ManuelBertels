@@ -24,11 +24,6 @@ Ich bin Webentwickler aus Deutschland 🇩🇪 mit Fokus auf moderne Frontend-Te
 
 ---
 
-## 📈 GitHub Stats
-
-![Manuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuelbertels&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Kontakt
 
