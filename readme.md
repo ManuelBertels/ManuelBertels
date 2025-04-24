@@ -28,8 +28,7 @@ Ich bin Webentwickler aus Deutschland 🇩🇪 mit Fokus auf moderne Frontend-Te
 
 ## 📫 Kontakt
 
-- ✉️ manuel.bertels@example.com *(ersetzen mit echter Adresse)*
-- 🌐 [manuelbertels.dev](https://manuelbertels.dev) *(optional)*
-- 🐦 [@manuelbertels](https://twitter.com/manuelbertels) *(optional)*
+- ✉️ Linkedin Profil
+
 
 ---
