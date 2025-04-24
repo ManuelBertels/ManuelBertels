@@ -11,7 +11,7 @@ Ich bin Webentwickler aus Deutschland 🇩🇪 mit Fokus auf moderne Frontend-Te
 - 💻 **JavaScript (ES6+)**
 - 🌐 **HTML5 & CSS3**
 - 🎨 **Styled Components / CSS Modules**
-- 🛠️ Git & GitHub
+- 🛠️ **Git & GitHub**
 
 ---
 
