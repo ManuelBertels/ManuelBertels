@@ -28,7 +28,7 @@ Ich bin Webentwickler aus Deutschland 🇩🇪 mit Fokus auf moderne Frontend-Te
 
 ## 📫 Kontakt
 
-- ✉️ linkedin.com/in/manuel-bertels-5b54b1326
+- ✉️ https://linkedin.com/in/manuel-bertels-5b54b1326
 
 
 ---
