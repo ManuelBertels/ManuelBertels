@@ -12,7 +12,7 @@ Ich bin Webentwickler aus Deutschland 🇩🇪 mit Fokus auf moderne Frontend-Te
 - 🌐 **HTML5 & CSS3**
 - 🎨 **Styled Components / CSS Modules**
 - 🛠️ **Git & GitHub**
-- :chart_with_upwards_trend**Agile Scrum**
+- :chart_with_upwards_trend:**Agile Scrum**
 
 ---
 
