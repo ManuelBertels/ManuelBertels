@@ -21,7 +21,7 @@ Ich bin Webentwickler aus Deutschland 🇩🇪 mit Fokus auf moderne Frontend-Te
 
 | Projekt            | Beschreibung                                  | Technologien            |
 |--------------------|-----------------------------------------------|--------------------------|
-| https://github.com/ManuelBertels/Account-balance | Verwaltet Ein&Ausgaben mit CRUD Operationen     | Next.js, React, CSS      |
+| https://github.com/ManuelBertels/Account-balance | Verwaltet Ein&Ausgaben in Zusammenhang mit CRUD Operationen zum erstellen einer dynamischen Webanwendung     | Next.js, React, CSS      |
 | https://github.com/ManuelBertels/Calculator | Taschenrechner mit einfachen Operatoren| Next.js, React, CSS|
 
 
