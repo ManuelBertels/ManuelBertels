@@ -23,7 +23,7 @@ Ich bin Webentwickler aus Deutschland 🇩🇪 mit Fokus auf moderne Frontend-Te
 |--------------------|-----------------------------------------------|--------------------------|
 | https://github.com/ManuelBertels/Account-balance |  Diese dynamische Webanwendung verwaltet Ein&Ausgaben mit CRUD Methoden     | Next.js, React, CSS      |
 | https://github.com/ManuelBertels/Calculator | Taschenrechner mit einfachen Operatoren| Next.js, React, CSS|
-| https://github.com/ManuelBertels/KarteikartenLernApp| Lernkarteikarten-Lern Anwendung mit CRUD Methoden und fetchen zum Anbinden einer Mongoose Datenbank|Next.js, React, MongoDB
+| https://github.com/ManuelBertels/KarteikartenLernApp| Lernkarteikarten-Lern Anwendung mit POST,READ,UPDATE,DELETE fetch Methoden zum Anbinden einer Mongoose Datenbank|Next.js, React, MongoDB
 
 ---
 
